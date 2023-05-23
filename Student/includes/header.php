@@ -1,3 +1,7 @@
+<?php
+    include('includes/arrays.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,3 +22,4 @@
             <?php include('Student/includes/nav.php'); ?>
         </div>
         <div class="content">
+</html>
