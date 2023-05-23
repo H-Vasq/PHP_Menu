@@ -1,5 +1,5 @@
 <?php
-    include('includes/arrays.php');
+    include('Student/includes/arrays.php');
 ?>
 
 <!DOCTYPE html>
