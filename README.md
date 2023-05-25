@@ -1,2 +1,3 @@
-Work-In-Progress: Coursework Project PHP Menu
+Work-In-Progress: PHP Restaurant Menu
 
+Coursework Project
