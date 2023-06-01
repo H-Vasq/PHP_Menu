@@ -14,7 +14,7 @@
         <ul>
             <?php foreach ($menuItems as $dish => $item) { ?>
 
-            <li><a href="dish.php?item=<?php echo $dish; ?>"><?php echo $item[title]; ?> <sup>$</sup><?php echo $item[price]; ?></a></li>
+            <li><a href="dish.php?item=<?php echo $dish; ?>"><?php echo $item["title"]; ?> <sup>$</sup><?php echo $item["price"]; ?></a></li>
             
             <?php } ?>
 
@@ -23,4 +23,3 @@
     </div>
 
 <?php include('Student/includes/footer.php');
-?> 
