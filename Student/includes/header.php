@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title><?php echo TITLE; ?></title>
     <link rel="stylesheet" href="assets/styles.css">
 </head>
 
