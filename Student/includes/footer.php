@@ -1,11 +1,11 @@
 <div id="footer" class="cf">
                 <div class="column three"></div>
                     <strong>Phone</strong>
-                    808.529.3819
+                    808.529.3819<br><br>
                 <div class="column three"></div>
                     <strong>Location</strong>
-                    123 Kapiolani Boulevart<br>
-                    Honolulu, HI
+                    123 Kapiolani Boulevard<br>
+                    Honolulu, HI<br><br>
                 <div class="column three last">
                     <strong>Hours</strong>
                     <em>Tuesday - Thursday</em><br>

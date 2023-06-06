@@ -18,6 +18,29 @@
  ),
  );
 
+// Team Members
+
+$teamMembers = array(
+  array(
+    "name" => "Frankie III",
+    "position" => "Owner",
+    "bio" => "He cooks great fritatta!",
+    "img" => "frankie"
+  ),
+  array(
+    "name" => "Francis",
+    "position" => "Manager",
+    "bio" => "Sister of Frankie",
+    "img" => "francis"
+  ),
+  array(
+    "name" => "Carlos",
+    "position" => "Chef",
+    "bio" => "Great chef",
+    "img" => "carlos"
+  ),
+);
+
  
 $navItems = array(
     array(

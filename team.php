@@ -11,7 +11,25 @@
 
         <hr>
 
+        <?php
+
+foreach ($teamMembers as $member) {
+    ?>
+    
+        <div class="member">
+            <img src="Student/img/<?php echo $member["img"]; ?>.png" alt="<?php echo $member["name"]; ?>">
+            <h5 style="margin-bottom: 3px;"><?php echo $member["name"]; ?></h5>
+            <p><?php echo $member["bio"]; ?></p>
+        </div>
+    
+    <?php
+        }
+    ?>
+    
     </div>
+    
+    <hr>
+    
 
 <?php include('Student/includes/footer.php'); ?>
 
