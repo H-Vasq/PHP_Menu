@@ -23,6 +23,7 @@ if (!defined('TITLE')) {
             <?php } ?>
 
         </ul>
+        <hr>
 
     </div>
 
