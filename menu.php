@@ -1,5 +1,9 @@
 <?php
-    define("TITLE", "Menu | Franklin's");
+if (!defined('TITLE')) {
+    define("TITLE", "Menu Item" . " | Franklin's Fine Dining");
+}
+
+    // define("TITLE", "Menu | Franklin's");
     include('Student/includes/header.php');
 ?>
 
