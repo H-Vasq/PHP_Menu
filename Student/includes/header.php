@@ -6,7 +6,8 @@
 <html lang="en">
 <head>
     <title><?php echo TITLE; ?></title>
-    <link rel="stylesheet" href="assets/styles.css">
+
+    <link rel="stylesheet" href="./styles.css">
 </head>
 
 <body id="final-example">
